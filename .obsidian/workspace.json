@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "fb97ea951ad2ab04",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2e683f6d72debd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daea3bada1603adc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b34af46ba5edabd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d86dde5bf6b7f9a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fcbd40767af3e36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c80056efc6c5fade",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1540a8cf7b9a1436",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "737ab4702cb4eae4",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed4651455bad8845",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc39cedf6faa1064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "234ac38f64c502a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "932fcb9f3589e2e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6231b2f1998b82e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "689fa9091eaf2b78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "daea3bada1603adc",
+  "lastOpenFiles": [
+    "Codility/Codility-OddOccurrencesInArray.md",
+    "Codility/Codility-TapeEquilibrium.md",
+    "Programmers/Codility-TapeEquilibrium.md",
+    "Programmers/Codility-OddOccurrencesInArray.md",
+    "Codility",
+    "Programmers/12985-예상 대진표.md",
+    "Programmers/12981-영어 끝말잇기.md",
+    "Programmers/12945-피보나치 수.md",
+    "Baekjoon",
+    "Spaces/Home",
+    "Spaces",
+    "Programmers/1844-게임 맵 최단거리.md",
+    "Programmers/92341-주차 요금 계산.md",
+    "Programmers/92335-k진수에서 소수 개수 구하기.md",
+    "Programmers/87946-피로도.md",
+    "Programmers/84512-모음사전.md",
+    "Programmers/64605-튜플.md",
+    "Programmers/43165-타겟 넘버.md",
+    "Programmers/42885-구명보트.md",
+    "Programmers/42842-카펫.md",
+    "Programmers/42626-더 맵게.md",
+    "Programmers/42587-프로세스.md",
+    "Programmers/42586-기능개발.md",
+    "Programmers/42578-의상.md",
+    "Programmers/42577-전화번호 목록.md",
+    "Programmers/17687-[3차] n진수 게임.md",
+    "Programmers/17684-[3차] 압축.md",
+    "Programmers/17677-[1차] 뉴스 클러스터링.md",
+    "Programmers/12980-점프와 순간이동.md",
+    "Programmers/12973-짝지어 제거하기.md",
+    "Programmers",
+    "새 폴더"
+  ]
+}
